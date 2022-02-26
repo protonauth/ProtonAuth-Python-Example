@@ -5,7 +5,7 @@ import os
 
 def watermark():
     os.system('cls')
-    print('--> cAuth Example <--')
+    print('--> ProtonAuth Example <--')
 
 
 auth_instance = api("program version", "program key", "program api/encryption key")
