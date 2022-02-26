@@ -272,9 +272,9 @@ class api:
 
     # endregion
 
-    __api_endpoint = "https://z.bypass.cx/api/handler.php"
+    __api_endpoint = "https://protonauth.xyz/api/handler.php"
 
-    __user_agent = "Mozilla cAuth"
+    __user_agent = "Mozilla ProtonAuth"
 
 
 class others:
